@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "WhatsAlexa",
   "version": "1.0.0",
-  "description": "Xbot for whatsapp online with termux",
+  "description": "A simple WhatsApp Bot By Abhinav",
   "main": "index.js",
   "directories": {
     "lib": "lib"
