@@ -2,7 +2,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
+> git clone https://github.com/abhimodzz/WhatsAlexa.git
 ```
 
 ## Install the dependencies:
@@ -10,7 +10,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv4
+> cd WhatsAlexa
 > bash install.sh
 ```
 
@@ -119,13 +119,4 @@ you've just cloned!!
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Fadhil Graphy`](https://github.com/MrK4ZUT0)
-
-
-## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
-### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
+* [`Abhinav`](https://github.com/abhimodzz)
